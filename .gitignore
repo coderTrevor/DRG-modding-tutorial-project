@@ -17,6 +17,9 @@
 *
 !*/
 
+# AutoHotkey scripts
+!*.ahk
+
 # C/C++ source files
 !*.c
 !*.cc
